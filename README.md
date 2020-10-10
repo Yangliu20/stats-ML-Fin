@@ -6,7 +6,7 @@
 
 [Classification and prediction of Implied Volatility with Decision Tree](#tree)
 
-## Implied Volatility analysis with LASSO regression<div id='lasso'></div>
+## <div id='lasso'></div>Implied Volatility analysis with LASSO regression
 
 **Input data**: Implied volatility and 36 historical volatilities
 
@@ -21,7 +21,7 @@
 
 <img src="https://github.com/Yangliu20/stats-ML-Fin/blob/main/docs/images/lasso_out_of_sample_test.png" width = 60% height = 60%/>
 
-## Classification and prediction of Implied Volatility with Decision Tree <div id='tree'></div>
+## <div id='tree'></div>Classification and prediction of Implied Volatility with Decision Tree
 
 **Input data**: Implied volatility and 13 historical volatilities
 
