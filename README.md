@@ -19,7 +19,7 @@
 - Reduce the dimension of features from 36 to 13
 - Make out-of-sample predictions, also compare the performance of static model (use a single model from fixed in-sample data) and rolling model (update in-sample data and the model everyday)
 
-<img src="https://github.com/Yangliu20/stats-ML-Fin/blob/main/docs/images/lasso_out_of_sample_test.png" width = 60% height = 60%/>
+<img src="https://github.com/Yangliu20/stats-ML-Fin/blob/main/docs/images/lasso_out_of_sample_test.png" width = 50% height = 50%/>
 
 ## <div id='tree'></div>Classification and prediction of Implied Volatility with Decision Tree
 
