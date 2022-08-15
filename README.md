@@ -1,4 +1,4 @@
-# Data Analysis Intern Projects
+# Machine Learning Projects for Financial Market Prediction
 
 ## Table of contents
 
